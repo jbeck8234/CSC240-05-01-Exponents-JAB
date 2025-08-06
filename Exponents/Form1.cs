@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name:
- * Date:
+ * Name: Jonathon Beck
+ * Date: 01 AUG 2025
  * Description: A program using user-created method
  *              for the math function Square and Cube
  * Assistance:
@@ -61,5 +61,9 @@ namespace Exponents
             // turn the Go button back on
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
