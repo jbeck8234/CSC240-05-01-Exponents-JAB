@@ -27,7 +27,6 @@ namespace Exponents
         private void xGoButton_Click(object sender, EventArgs e)
         {
             // STORAGE
-            //Test
             // INPUT
 
             // PROCESS
