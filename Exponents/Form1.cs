@@ -27,7 +27,7 @@ namespace Exponents
         private void xGoButton_Click(object sender, EventArgs e)
         {
             // STORAGE
-
+            //Test
             // INPUT
 
             // PROCESS
@@ -61,5 +61,9 @@ namespace Exponents
             // turn the Go button back on
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
